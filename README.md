@@ -6,5 +6,5 @@ making furthere edit
 
 updaing again 12/7 again and again
 
-I am updating from local that will conflict
+I am updating from local that will conflict making changes
 
